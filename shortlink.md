@@ -1,0 +1,1 @@
+http://github-website-staging.waypoint.automation-blog.ca
